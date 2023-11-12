@@ -1,1 +1,1 @@
-Directory: 0x00-hello_world
+Repository: alx-low_level_prgramming
